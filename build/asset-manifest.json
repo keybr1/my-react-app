@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e8ec7833.chunk.css",
+    "main.js": "/static/js/main.7ce8422d.chunk.js",
+    "main.js.map": "/static/js/main.7ce8422d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.107bb8ca.js",
+    "runtime-main.js.map": "/static/js/runtime-main.107bb8ca.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.97a9e00e.chunk.js": "/static/js/2.97a9e00e.chunk.js",
+    "static/js/2.97a9e00e.chunk.js.map": "/static/js/2.97a9e00e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.36ea3df5cabfa7e385e3353028bf6ee7.js": "/precache-manifest.36ea3df5cabfa7e385e3353028bf6ee7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.e8ec7833.chunk.css.map": "/static/css/main.e8ec7833.chunk.css.map",
+    "static/js/2.97a9e00e.chunk.js.LICENSE.txt": "/static/js/2.97a9e00e.chunk.js.LICENSE.txt",
+    "static/media/grasswater.jpg": "/static/media/grasswater.58fbf78f.jpg",
+    "static/media/house.jpg": "/static/media/house.2f674674.jpg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.107bb8ca.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.97a9e00e.chunk.js",
+    "static/css/main.e8ec7833.chunk.css",
+    "static/js/main.7ce8422d.chunk.js"
+  ]
+}
